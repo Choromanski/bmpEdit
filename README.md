@@ -1,4 +1,4 @@
-# bmpEdit
+# bmpEdit, University of Pittsburgh CS 0449 Project 1 part 2
 
 ## Compile
 Compile with ``make``
